@@ -2,11 +2,14 @@
 
 ## Usage
 
+
   $ git clone https://github.com/keystonejs/fields-test-harness
   $ cd fields-test-harness
   $ npm install
 
+
   $ node server
+
 
   $ make watch
 
