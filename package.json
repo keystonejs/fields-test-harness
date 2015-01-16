@@ -1,0 +1,21 @@
+{
+  "name": "keystone-fields-test-harness",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keystonejs/fields-test-harness.git"
+  },
+  "bugs": {
+    "url": "https://github.com/keystonejs/fields-test-harness/issues"
+  },
+  "homepage": "https://github.com/keystonejs/fields-test-harness",
+  "dependencies": {
+    "6to5ify": "^3.1.2",
+    "express": "^4.11.0",
+    "keystone": "https://github.com/keystonejs/keystone/archive/master.tar.gz",
+    "react": "^0.12.2",
+    "watchify": "^2.2.1"
+  }
+}

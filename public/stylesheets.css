@@ -1,0 +1,35 @@
+
+#sidebar,
+#content {
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  padding: 20px;
+}
+
+#sidebar {
+  background-color: #e7eff3;
+  left: 0;
+  width: 200px;
+}
+
+#content {
+  right: 0;
+  left: 200px;
+}
+
+h1,
+h2 {
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 16px;
+  color: #1d6d92;
+  text-transform: uppercase;
+  margin: 20px 0;
+}
